@@ -18,7 +18,7 @@ h1{
 }
 p{
     text-align: justify;
-    font-weight: 550;
+    font-weight: 650;
      
 }
 strong{
@@ -28,6 +28,7 @@ strong{
 section{
     display: flex;
     padding: 8px;
+    padding-right: 10px;
 }
    
 img{
@@ -51,7 +52,7 @@ a{
     border-radius:5px ; 
     text-decoration: none;
     background-color:rgba(119, 48, 48, 0.418);
-    font-weight: 600;
+    font-weight: 500;
     
 }
 .banner{
